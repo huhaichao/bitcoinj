@@ -15,5 +15,5 @@ script:
 
 notifications:
   irc:
-    channels: "irc.freenode.net#bitcoinj"
+    channels: "irc.freenode.net#zcashcoinj"
     skip_join: true
